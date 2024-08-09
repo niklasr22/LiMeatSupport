@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5daa43ed-8de9-47a9-83a9-7104c24d47e4">
+  <img src="https://github.com/user-attachments/assets/03f90333-b901-48a4-b8ab-61e335d200ea">
 </p>
 <p align="center">
     AppStore link coming soon
